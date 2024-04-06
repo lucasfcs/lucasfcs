@@ -6,8 +6,13 @@ Olá! 👋 Eu sou Lucas Fernandes, um desenvolvedor back-end apaixonado por tecn
 
 ## Experiência Profissional
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="350px" align="right">
+<p align="left">
+  
 Atualmente, estou empregado na empresa **Anjun Express** como desenvolvedor back-end. Aqui estão algumas informações sobre minha experiência e as tecnologias com as quais trabalho:
 
+
+  
 - **Empresa:** Anjun Express
 - **Cargo:** Desenvolvedor Back-end
 - **Tecnologias Utilizadas:**
@@ -25,6 +30,12 @@ Eu tenho experiência e conhecimento em várias tecnologias e frameworks, inclui
 - **Prisma ORM:** Utilizo o Prisma ORM para interagir com bancos de dados em minhas aplicações, o que facilita a manipulação de dados e a construção de consultas seguras.
 - **JavaScript:** Além de trabalhar com Node.js, tenho experiência em desenvolvimento front-end utilizando JavaScript para criar interfaces de usuário dinâmicas e interativas.
 - **HTML e CSS:** Tenho experiência em desenvolvimento front-end, incluindo o uso de HTML e CSS para criar interfaces de usuário responsivas e atraentes.
+
+
+    <img alt="Node.js" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+        <img alt="NestJS" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
+          <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 
 ## Projetos Pessoais
 
