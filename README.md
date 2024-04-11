@@ -1,17 +1,17 @@
 # Lucas Fernandes
 
-## About Me
+
 
 Olá! 👋 Eu sou Lucas Fernandes, um desenvolvedor back-end apaixonado por tecnologia, atualmente trabalhando na empresa Anjun Express como desenvolvedor back-end. Sou apaixonado por desenvolvimento de software e estou constantemente buscando aprender e aprimorar minhas habilidades.
 
 ## Experiência Profissional
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="350px" align="right">
-<p align="left">
+
   
 Atualmente, estou empregado na empresa **Anjun Express** como desenvolvedor back-end. Aqui estão algumas informações sobre minha experiência e as tecnologias com as quais trabalho:
 
-
+<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" alt="ilustração de um computador" min-width="400px" max-width="400px" width="200px" align="right">
+<p align="left">
   
 - **Empresa:** Anjun Express
 - **Cargo:** Desenvolvedor Back-end
