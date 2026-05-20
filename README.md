@@ -65,7 +65,7 @@ Também possuo experiência anterior como desenvolvedor back-end, o que me propo
 src="https://playwright.dev/img/playwright-logo.svg">
 
 <img align="center" alt="JS" height="40" width="50"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg"
 
 <img align="center" alt="Java" height="40" width="50"
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
@@ -105,14 +105,11 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 
 # 📈 GitHub Stats
 
-<div>
-<a href="https://github.com/lucasfcs">
+<div align="center">
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=lucasfcs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasfcs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfcs&layout=compact&langs_count=7&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfcs&layout=compact&langs_count=7&theme=tokyonight"/>
 
 </div>
 
