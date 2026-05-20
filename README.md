@@ -1,65 +1,124 @@
-# Lucas Fernandes
+# 👋 Olá, eu sou Lucas Fernandes
 
+💻 QA Engineer | Test Automation | E2E Testing
 
+Sou apaixonado por tecnologia, automação e qualidade de software.  
+Atualmente atuo como **QA Engineer**, trabalhando com automação de testes, testes End-to-End (E2E) e criação de cenários BDD utilizando Cucumber.
 
-Olá! 👋 Eu sou Lucas Fernandes, um desenvolvedor back-end apaixonado por tecnologia, atualmente trabalhando na empresa Anjun Express como desenvolvedor back-end. Sou apaixonado por desenvolvimento de software e estou constantemente buscando aprender e aprimorar minhas habilidades.
+Também possuo experiência anterior como desenvolvedor back-end, o que me proporciona uma visão mais completa sobre desenvolvimento e qualidade de aplicações.
 
-## Experiência Profissional
+---
 
+# 🚀 Experiência Profissional
 
-  
-Atualmente, estou empregado na empresa **Anjun Express** como desenvolvedor back-end. Aqui estão algumas informações sobre minha experiência e as tecnologias com as quais trabalho:
+## 🏢 Evoluservices Meios de Pagamento — QA Engineer
 
-<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" alt="ilustração de um computador" min-width="400px" max-width="400px" width="200px" align="right">
-<p align="left">
-  
-- **Empresa:** Anjun Express
-- **Cargo:** Desenvolvedor Back-end
-- **Tecnologias Utilizadas:**
-  - Node.js
-  - NestJS
-  - Prisma ORM
-  - JavaScript
+📅 Atual
 
-## Experiência e Habilidades Técnicas
+### Atividades:
 
-Eu tenho experiência e conhecimento em várias tecnologias e frameworks, incluindo:
+- Automação de testes
+- Desenvolvimento de testes E2E
+- Criação de cenários BDD com Cucumber
+- Automação utilizando Playwright
+- Validação de APIs e fluxos
+- Identificação e documentação de bugs
+- Garantia da qualidade das aplicações
 
-- **Node.js:** Sou experiente no desenvolvimento de aplicações usando Node.js, desde a configuração do ambiente até a criação de APIs robustas.
-- **NestJS:** Como um framework Node.js, NestJS permite a construção de aplicativos escaláveis e modularizados. Tenho experiência em desenvolver aplicativos web utilizando o NestJS.
-- **Prisma ORM:** Utilizo o Prisma ORM para interagir com bancos de dados em minhas aplicações, o que facilita a manipulação de dados e a construção de consultas seguras.
-- **JavaScript:** Além de trabalhar com Node.js, tenho experiência em desenvolvimento front-end utilizando JavaScript para criar interfaces de usuário dinâmicas e interativas.
-- **HTML e CSS:** Tenho experiência em desenvolvimento front-end, incluindo o uso de HTML e CSS para criar interfaces de usuário responsivas e atraentes.
+### Tecnologias:
 
+- Playwright
+- Cucumber
+- JavaScript
+- Java
+- Python
+- Test Automation
+- E2E Testing
 
-    <img alt="Node.js" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-        <img alt="NestJS" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
-          <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+---
 
-## Projetos Pessoais
+## 🏢 Anjun Express — Desenvolvedor Back-end
 
-Além do meu trabalho na empresa Anjun Express, também trabalho em projetos pessoais. Você pode encontrar alguns dos meus projetos mais interessantes aqui no meu perfil do GitHub.
+📅 Experiência anterior
 
-## Contato
+### Atividades:
 
-Se você quiser entrar em contato comigo, sinta-se à vontade para me enviar um e-mail em lucas.fcs@outlook.com. Também estou disponível no [LinkedIn](https://www.linkedin.com/in/lucasfcs/) para conexões profissionais.
+- Desenvolvimento e manutenção de APIs
+- Criação de funcionalidades back-end
+- Integração com banco de dados
+- Desenvolvimento utilizando arquitetura modular
 
-Estou sempre aberto a novas oportunidades de colaboração e aprendizado. Não hesite em entrar em contato!
+### Tecnologias:
 
+- Node.js
+- NestJS
+- Prisma ORM
+- JavaScript
 
+---
 
-<!--
-**lucasfcs/lucasfcs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🛠️ Tecnologias e Ferramentas
 
-Here are some ideas to get you started:
+<div style="display: inline_block"><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="center" alt="Playwright" height="40" width="50"
+src="https://playwright.dev/img/playwright-logo.svg">
+
+<img align="center" alt="JS" height="40" width="50"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+
+<img align="center" alt="Java" height="40" width="50"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+
+<img align="center" alt="Python" height="40" width="50"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
+<img align="center" alt="Node" height="40" width="50"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+
+<img align="center" alt="NestJS" height="40" width="50"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg">
+
+<img align="center" alt="Git" height="40" width="50"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+
+</div>
+
+---
+
+# 📚 Conhecimentos
+
+- QA Automation
+- Playwright
+- Testes E2E
+- BDD
+- Cucumber
+- APIs REST
+- Automação de testes
+- Node.js
+- JavaScript
+- Java
+- Python
+- Git/GitHub
+
+---
+
+# 📈 GitHub Stats
+
+<div>
+<a href="https://github.com/lucasfcs">
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=lucasfcs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfcs&layout=compact&langs_count=7&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 📫 Contato
+
+📧 lucas.fcs@outlook.com
+💼 https://www.linkedin.com/in/lucasfcs/
