@@ -59,28 +59,15 @@ Também possuo experiência anterior como desenvolvedor back-end, o que me propo
 
 # 🛠️ Tecnologias e Ferramentas
 
-<div style="display: inline_block"><br>
+<div align="center">
 
-<img align="center" alt="Playwright" height="40" width="50"
-src="https://playwright.dev/img/playwright-logo.svg">
-
-<img align="center" alt="JS" height="40" width="50"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg"
-
-<img align="center" alt="Java" height="40" width="50"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-
-<img align="center" alt="Python" height="40" width="50"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-
-<img align="center" alt="Node" height="40" width="50"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-
-<img align="center" alt="NestJS" height="40" width="50"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg">
-
-<img align="center" alt="Git" height="40" width="50"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+<img align="center" alt="Playwright" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/playwright.svg" />
+<img align="center" alt="JavaScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align="center" alt="Java" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img align="center" alt="Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="center" alt="Node.js" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="center" alt="NestJS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
+<img align="center" alt="Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
 </div>
 
@@ -107,9 +94,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasfcs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfcs&layout=compact&langs_count=7&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=lucasfcs&show_icons=true&theme=tokyonight&hide_border=false&cache_seconds=86400" alt="GitHub Stats" />
+<img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=lucasfcs&layout=compact&langs_count=7&theme=tokyonight&hide_border=false&cache_seconds=86400" alt="Top Languages" />
 
 </div>
 
