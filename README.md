@@ -59,19 +59,6 @@ QA com atuação em **meios de pagamento**, foco em testes End-to-End e cenário
 
 ---
 
-## Projetos em destaque
-
-| Repositório | Descrição |
-|-------------|-----------|
-| [**webstore-fb**](https://github.com/lucasfcs/webstore-fb) | Loja virtual em TypeScript — prática de front-end e integração |
-| [**portfolio-api**](https://github.com/lucasfcs/portfolio-api) | API em TypeScript para portfólio e consumo por clientes |
-| [**api-node**](https://github.com/lucasfcs/api-node) | API REST com Node.js e MongoDB — estudos e prática back-end |
-| [**user-registration**](https://github.com/lucasfcs/user-registration) | API de cadastro de usuários para integração com front-end React |
-
-> Repositórios de estudo e portfólio. Projetos de automação corporativa permanecem em ambiente interno.
-
----
-
 ## GitHub Stats
 
 <div align="center">
